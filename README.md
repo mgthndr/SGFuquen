@@ -1,5 +1,5 @@
 ## <h1 align="center"> Hi there, I´m Samuel 🧊
- <h1 align="center">    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=How+Could+I+Be+Of+Assistance?;Software+Engineer+sgarcia_1001@gmail.com;Software+Engineer+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+ <h1 align="center">    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=How+Could+I+Be+Of+Assistance?;Softwaare+Engineer+sgarcia_1001@gmail.com;Software+Engineer+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
    </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-18-blue" />
